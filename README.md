@@ -1,6 +1,6 @@
 # Amazon Frontend Copy
 
-[Amazoncopy.com](clone-5de09.web.app)
+# https://clone-5de09.web.app/
 
 -   React
 -   Redux
